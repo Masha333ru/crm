@@ -2,7 +2,7 @@
 Le CRM ou GRC Gestion de la Relation Client, c'est l'art de creer, developper et entretenir des relations graphiques et reel.
 La force d'une solution CRM, c'est sa capasite d'adaptation aux processus et d'intergation au couer du systeme d'information.
 
-Ma solution CRM me donnera une vue 360 de mon systeme et me permettera d'automatiser plusieurs fonctions tres utiles comme le scan d'apres laquelle il y a des changements automatisees, de nombreuses fonctions qui creent des statistiques et encore le chance de ne pas perdre des arctiles, comme ils sont tous tracké.
+Ma solution CRM me donnera une vue 360 de mon systeme et me permettera d'automatiser plusieurs fonctions.
 
 AirTable est un outil qui permet de creer des programmes personalisees tels qu'un CRM. C'est un data orgonisez qui collabore avec des sous-programmes, grace aux quelles je peux construire une solution CRM, en utilisant les langues de programmation mais pas que.  On peut comparer AirTable au Unity dans le langue de programmation.
 
@@ -32,6 +32,10 @@ Using Google gmail pro fonction
 
 Automating forwarding to Zapier email parser Emil address to make everything functional
 
+(Zapier email parser  - Une intelligence artificielle 
+An email parser is a piece of software that allows you to extract data from incoming emails. Email parsers can be configured to pull specific data fields from incoming emails. By doing so they allow you to convert an unstructured email into easy-to-handle structured data.)
+
+
 —
 
 13.04 
@@ -47,6 +51,8 @@ Need to fix
 —
 
 14.04 
+
+Problemshooting
 
 Fixing Airtable fonction 
 
@@ -64,3 +70,24 @@ Works again but still got some problems with it
 Got problems with calculator
 
 - Trying Discord integration with webhook when status updated
+
+19.04
+
+Setting up mail auto sending with each noun attache to each seller
+each seller - each email
+
+Using AirTable invegration with Gmail
+
+Setting up all nouns and design
+
+20.04
+
+Email working
+Now creating plusiers versions
+
+
+23.04
+
+Creating form, invegrating it to change status from To Meetup to In Stock 
+Creating fonctions - if it becomes In Stock and payment methode is Cash - For the client - Sale Done
+if it becomes In Stock and payment methode is PayPal - For the client - To be paid
